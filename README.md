@@ -1,3 +1,42 @@
+
+# Pomodoro-typescript
+## Descrição do Projeto
+
+<p align="center">Projeto simples para colocar meu recente aprendizado de typescipt em pratica</p
+ <h4 align="center"> 
+	✅  Pomodoro-typescript 🚀 Concluido...  ✅
+ </h4>
+
+ Getting Started with Create React App
+
+
+ <!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Tabela de conteúdos</summary>
+  <ol>
+    <li>
+      <ul>
+        <li><a href="#Tecnologias">Tecnologias</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Getting-Started-with-Create-React-App>Começando</a>
+    </li>
+    <li><a href="#Demonstração">Demonstração</a></li>
+    <li><a href="#Contato">Contato</a></li>
+  </ol>
+</details>
+
+
+## Tecnologias
+O projeto foi feito com as seguintes tecnologias:
+
+React js	
+
+* Typescript 
+* componentização 
+* hooks(useState,useEfect,use callback e etc)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +83,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+##  Demonstração
+
+Home.js
+
+![](/img/React-App-Opera-2021-01-03-20-01-23.gif)
+
+
+
+<!-- CONTACT -->
+##  Contato
+Email: julysmartins54@gmail.com
+
+linkedin:www.linkedin.com/in/julys-martins-2558651a3
+
+Project Link: [https://github.com/julysNICK/Amazon_Clone.git](https://github.com/julysNICK/Amazon_Clone.git)
