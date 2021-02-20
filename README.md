@@ -6,10 +6,6 @@
  <h4 align="center"> 
 	✅  Pomodoro-typescript 🚀 Concluido...  ✅
  </h4>
-
- Getting Started with Create React App
-
-
  <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Tabela de conteúdos</summary>
