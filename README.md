@@ -78,7 +78,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Home.js
 
-![](/img/React-App-Opera-2021-01-03-20-01-23.gif)
+![](/image/Capturar.PNG)
 
 
 
