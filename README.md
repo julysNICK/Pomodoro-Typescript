@@ -10,14 +10,8 @@
 <details open="open">
   <summary>Tabela de conteúdos</summary>
   <ol>
-    <li>
-      <ul>
-        <li><a href="#Tecnologias">Tecnologias</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#Getting-Started-with-Create-React-App>Começando</a>
-    </li>
+    <li><a href="#Tecnologias">Tecnologias</a></li>  
+    <li><a href="#Getting-Started-with-Create-React-App">Começando</a></li>
     <li><a href="#Demonstração">Demonstração</a></li>
     <li><a href="#Contato">Contato</a></li>
   </ol>
