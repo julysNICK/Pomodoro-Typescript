@@ -2,7 +2,7 @@
 # Pomodoro-typescript
 ## Descrição do Projeto
 
-<p align="center">Projeto simples para colocar meu recente aprendizado de typescipt em pratica</p
+<p align="center">Projeto simples para colocar meu recente aprendizado de typescipt em prática</p
  <h4 align="center"> 
 	✅  Pomodoro-typescript 🚀 Concluido...  ✅
  </h4>
