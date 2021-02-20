@@ -25,7 +25,7 @@ React js
 
 * Typescript 
 * componentização 
-* hooks(useState,useEfect,use callback e etc)
+* hooks
 
 # Getting Started with Create React App
 
